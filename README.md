@@ -15,6 +15,7 @@ A scalable React-based claims processing platform for managing 20,000+ claims, l
 | **Security & RBAC** | Auth, SSO, authorization, audit | [Read →](docs/security-and-rbac.md) |
 | **State & Reliability** | State management, error handling | [Read →](docs/state-reliability-and-scalability.md) |
 | **Trade-offs & Decisions** | Tech stack, POC scope, recommendations | [Read →](docs/trade-offs-and-final-recommendation.md) |
+| **System Diagrams** | Visual architecture and flow diagrams | [View →](diagrams/) |
 
 ---
 
